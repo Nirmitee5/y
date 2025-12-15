@@ -1,3 +1,1 @@
-markdown file has been created 
-adding more contents into the file 
-lets learn how this works 
+i have made few changes to the read me file now 
